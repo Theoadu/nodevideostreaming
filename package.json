@@ -1,13 +1,13 @@
 {
   "name": "video-stream-with-nodejs",
   "version": "1.0.0",
-  "description": "",
+  "description": "Video Streaming with NodeJS",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Theophilus E.K Adukpo <theoadu@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.2",
